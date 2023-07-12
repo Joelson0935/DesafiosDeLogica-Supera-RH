@@ -6,6 +6,9 @@
 
 ## organização do projeto
 
-* separei cada desafio em uma pasta 
-* todos os desafios possuem apenas uma classe cada
-* a classe 1 responde o desafio 1 e assim por diante
+* separei os 4 desafios por pacotes
+* cada pacote possui uma classe com
+* a resolução de 1 exercício, usei o
+* Scanner para fazer as entradas, então
+* é só rodar o projeto e testar os métodos.
+
